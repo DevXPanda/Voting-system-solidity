@@ -64,6 +64,9 @@ voting-system/
 ├── hardhat.config.js       # Hardhat configuration
 ├── package.json            # Dependencies and scripts
 └── README.md               # Project documentation
+
+
+
 Technologies Used 🛠️
 Solidity: Smart contract programming.
 Hardhat: Development environment.
