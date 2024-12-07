@@ -19,7 +19,7 @@ Follow these steps to set up the project:
 Clone the repository:
 
 bash
-git clone https://github.com/Pandaa1912/voting-system.git
+git clone https://github.com/DevXPanda/voting-system.git
 cd voting-system
 Install dependencies:
 
